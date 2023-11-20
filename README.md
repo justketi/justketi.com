@@ -4,7 +4,7 @@ When you open [https://justketi.com](https://justketi.com) it shows you `index.h
 
 When you open other page, it will open corresponding path as in your repository on github, for example:
 
-[https://justketi.com/src/index.html](https://justketi.com/src/index.html) -> it will show you page in `src/index.html`.
+[https://justketi.com/src/about.html](https://justketi.com/src/about.html) -> it will show you page in `src/about.html`.
 
 # How to push changes
 
