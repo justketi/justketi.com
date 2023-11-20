@@ -11,3 +11,5 @@ git push origin main
 ```
 cd projects/justketi.com
 ```
+
+git pull
