@@ -1,3 +1,11 @@
 body {
     background-color:rgb(242, 195, 203)
 }
+.welcome {
+    color:aqua;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 100;
+    text-decoration: underline;
+}
+
