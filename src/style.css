@@ -25,3 +25,9 @@ body {
     border-color: antiquewhite;
     margin: 20px 50px 40px 60px;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
